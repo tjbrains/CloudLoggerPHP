@@ -1,6 +1,6 @@
 # CloudLoggerPHP
 
-接收访问日志服务PHP gRPC示例。
+接收访问日志服务PHP gRPC示例，详情请参考 [访问日志接收服务](https://flexcdn.cn/docs/node/accesslog/endpoint) 。
 
 ## 使用前提
 
