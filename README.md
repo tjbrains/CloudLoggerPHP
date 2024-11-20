@@ -6,6 +6,7 @@
 
 * 你已经安装了 protoc 和 grpc_php_plugin，相关参考文档：https://github.com/grpc/grpc/tree/master/src/php ，安装后需要修改 `proto_gen.sh` 中的相关路径
 * 你的PHP已经安装了grpc模块，如果还没安装请参考 https://pecl.php.net/package/gRPC
+* PHP版本号不低于7.1
 
 ## 运行
 
